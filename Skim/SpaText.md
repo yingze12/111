@@ -23,7 +23,7 @@
 - Output: $I\in\mathbb{R}^{3\times H\times W}$
 ### Overview
 
-![](./imgs/SpaText_Fig3.png)
+![](../imgs/SpaText_Fig3.png)
 
 ### CLIP-based Spatio-Textual Representation
 - \{$S_i\in[C]\}_{i=1}^K$: randomly chosen disjoint segments 
@@ -75,7 +75,7 @@ Authors compared pixel-based (DALL·E-2) and latent-based (Stable Diffusion) mod
 
   Using the above formulation allows fine-grained control over the input conditions
   
-  ![](./imgs/SpaText_Fig4.png)
+  ![](../imgs/SpaText_Fig4.png)
 
 Illustration: Given the same inputs (left) ,we can use different scales for each condition.In this example,if we put all the weight on the local scene (1),the generated image contains a horse with the correct color and posture,but not at the beach.
 
