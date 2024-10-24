@@ -5,7 +5,7 @@
 - Motivation: it is possible to control the shapes of different regions/objects or their layout in a fine-grained fashion than previous attempts.
 - Illustration: Lack of fine-grained spatial control: A user with a specific mental image of a Labrador dog holding its paw above a blue ball without touching, can easily generate it with a SpaText representation (left) but will struggle to do so with traditional text-to-image models (right)
   
-![](./imgs/SpaText_Fig2.png)
+![](../imgs/SpaText_Fig2.png)
 
 ## Contributions
 - address a new scenario of image generation with free-form textual scene control
